@@ -2,6 +2,8 @@ GetPath Landing Page
 
 This is repository of getpath.id landingpage.
 This web application uses php as back end technology (for data storage) and HTML with CSS as front end technology.
+The template that used for getpath.id came from https://templatemo.com/tm-516-known.
+Thank you for https://templatemo.com/!
 
 To run this application, you have to
 1. Pull this repository
